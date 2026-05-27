@@ -1,5 +1,5 @@
 ---
-title: "我的一天"
+title: 我的一天
 date: 2025-10-16
 categories: 
   - "life"
@@ -7,8 +7,6 @@ tags:
   - "工作"
   - "生活"
 ---
-
-![](images/J9I47hIx_YdVSFM2.webp)
 
 最近在单曲循环毛不易的一首歌——《[平凡的一天](https://music.163.com/#/song?id=569214247)》，朴素的歌词，简单的曲调，虽然是平凡的一天，但也是我向往的一天。
 
@@ -37,5 +35,3 @@ tags:
 * * *
 
 封面图是由 ChatGPT 生成，提示词是"**一个上班族平凡的一天，以这个为主题，生成一张 16:9 的图片，风格随机**"，我只能说，ChatGPT 你真懂我。
-
-![](images/Sa9rL0Cpf8xBYZN9.webp)

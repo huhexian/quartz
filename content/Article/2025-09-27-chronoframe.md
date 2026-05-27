@@ -1,5 +1,5 @@
 ---
-title: "展示照片的好地方"
+title: 展示照片的好地方
 date: 2025-09-27
 categories: 
   - "play-everything"
@@ -7,8 +7,6 @@ tags:
   - "afilmory"
   - "chronoframe"
 ---
-
-![](images/EKWq57l7rnYCUaKc.webp)
 
 ## 缘起
 
@@ -86,17 +84,11 @@ docker-compose up -d
 
 > [https://fade.im](https://fade.im)
 
-![](images/WX20250927-230345@2x.webp)
-
 这是陈仓颉部署的：
 
 > [https://photo.imzm.org](https://photo.imzm.org)
 
-![](images/WX20250927-230408@2x.webp)
-
 他一开始部署没成功，气得红温，最后还是折腾成功了。
-
-![](images/WSG0jTZd2ch3_eFs.webp)
 
 ## 后话
 
