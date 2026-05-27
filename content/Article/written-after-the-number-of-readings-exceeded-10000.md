@@ -1,11 +1,12 @@
 ---
-title: "写在阅读量破万之后"
+title: 写在阅读量破万之后
 date: 2024-01-27
-categories: 
-  - "life"
-tags: 
-  - "写作"
-  - "思考"
+categories:
+  - life
+tags:
+  - 写作
+  - 思考
+draft: true
 ---
 
 ![](images/6c771f412b0fdf9b.webp)

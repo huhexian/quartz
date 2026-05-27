@@ -1,12 +1,13 @@
 ---
-title: "Hello，印记！"
+title: Hello，印记！
 date: 2023-09-08
-categories: 
-  - "life"
-tags: 
-  - "博客"
-  - "印记"
-  - "域名"
+categories:
+  - life
+tags:
+  - 博客
+  - 印记
+  - 域名
+draft: true
 ---
 
 ![](images/1694131805214.jpg)
