@@ -7,7 +7,6 @@ tags:
   - "afilmory"
   - "chronoframe"
 ---
-
 ## 缘起
 
 我见过许多可以上传照片，将其作为作品展示的平台，比如小红书、Instagram、抖音，再或者是图虫，或者是国外的 [Unsplash](https://unsplash.com/@huhexian) 等平台。或许和写博客一样，内心有一股执念，数据只有掌握在自己手里才安全，紧接着便开始搜索各种可自部署的图片展示服务。
