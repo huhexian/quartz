@@ -1,5 +1,5 @@
 ---
-title: "不要坚持"
+title: 不要坚持
 date: 2026-05-01
 categories: 
   - "life"
