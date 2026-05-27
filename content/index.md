@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: 落笔成花
 ---
+之前一直用 WordPress 写博客，久而久之，发现一个非常大的局限，被博客限制了，当我想随便写点东西，比如几句话，一张图的时候，文章形式太大，需要一个更恰当的形式来承载。
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+于是 Quartz 是个不错的工具。
