@@ -7,7 +7,9 @@ tags:
   - "坚持"
   - "骑行"
 ---
-> 当做一件事情需要坚持，那就是勉强，勉强就不可能有好结果。
+![](https://img.yinji.org/LzYyTfBaeEwEaNnB.webp)
+
+>当做一件事情需要坚持，那就是勉强，勉强就不可能有好结果。
 
 这是我在和菜头的文章《[在和菜头的激励下](https://www.hecaitou.com/2024/03/Inspired-by-He-Caitou.html)》中了解到的一个观点。
 

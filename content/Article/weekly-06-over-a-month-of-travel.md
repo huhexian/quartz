@@ -6,10 +6,9 @@ categories:
 tags: 
   - "周报"
 ---
-
 上一期周报还停留在10月8日，这一个多月的时间里虽然陆陆续续更新了6篇文章，都是整理自空闲时间记录下来的内容，多以 flomo 的笔记为主。找工作的事情基本告一段落，接下来的时间就得用在毕业论文上。
 
-![](images/af87a77fc70173935ac43f832acec04d.webp)
+![](https://huhexian.s3.bitiful.net/2023/11/26/af87a77fc70173935ac43f832acec04d.webp)
 
 ## 秋招
 
@@ -45,9 +44,9 @@ tags:
 - 10月28日：“纯真而不欠闻达，善良而不失坚强。把生命高举在尘俗之上，又溶化于社会之中，这应该是我们这一代的共同追求。”
 - 10月29日：拼多多薅羊毛收入160元，第一次也是最后一次薅到拼多多的羊毛，给长期不联系的同学发信息，以后再也不干了。
 - 10月30日：现在才发现 [Perplexity AI](https://www.perplexity.ai/) 这么好用，智能AI搜索引擎，相当于另一个 New Bing，界面还比它更好看，看起来很舒服。不仅能整合搜索结果，在左侧还有一个 Discover，展示了一些关注度比较高的搜索内容。
-- 11月4日：最近因为 Clash 事件，Twitter 上的气氛突然变得让人忧心忡忡，正好看到两篇关于保护个人隐私、不被他人追踪的文章，一篇来自推友[GeekPlux](https://twitter.com/geekplux)，另一篇来自 Bearblog，搭配着一起阅读，学习如何保护隐私。
-    - [Enhance Your Internet Privacy in 2023](https://geekplux.com/posts/internet-privacy)
-    - [How I stay reasonably anonymous online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
+- 11月4日：最近因为 Clash 事件，Twitter 上的气氛突然变得让人忧心忡忡，正好看到两篇关于保护个人隐私、不被他人追踪的文章，一篇来自推友[GeekPlux](https://twitter.com/geekplux)，另一篇来自 Bearblog，搭配着一起阅读，学习如何保护隐私。 
+  - [Enhance Your Internet Privacy in 2023](https://geekplux.com/posts/internet-privacy)
+  - [How I stay reasonably anonymous online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
 - 11月7日：看了《最后的真相》，烂片。
 - 11月12日：头一次看探店美食视频看馋了。还得是王刚，声音好听，视频拍得也很贴近生活，他往那一坐，就感觉我也在他对面一起吃饭。给菜特写，给他扒饭吃菜也有特写，馋死人了。
 - 11月13日：赶在双十一下单了一台 [Redmi Note 11T Pro](https://twitter.com/huhexian/status/1723950020649496912)，12+256，送给我爸用。他现在用的还是5年前买的华为畅享9，非常卡，我说过好几遍让他换手机，但他舍不得换，我先斩后奏，到时候他想退我就说激活了无法退。另外还买了一个符合中年人风格的手机壳，等到手一起寄回家。幸好过了一遍我的手，这广告太多了。京东自营买的，价格还挺不错。虽然我不是一次性付全款，而是用了京东白条6期免息，每个月还200元，也挺轻松。

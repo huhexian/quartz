@@ -6,8 +6,7 @@ categories:
 tags: 
   - "telegram"
 ---
-
-延续上一篇 [Telegram 频道推荐](https://yinji.org/4807.html)，推荐了 7 个目前关注并常看的频道，今天继续推荐，另外推荐几个常用的 Telegram Bot。
+延续上一篇 [[telegram-channel-recommendations|Telegram 频道推荐]]，推荐了 7 个目前关注并常看的频道，今天继续推荐，另外推荐几个常用的 Telegram Bot。
 
 ## Telegram 频道
 

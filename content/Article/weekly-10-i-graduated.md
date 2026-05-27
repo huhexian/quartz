@@ -6,10 +6,9 @@ categories:
 tags: 
   - "周报"
 ---
-
 大学毕业其实并不值得一提，但是人生第一次，也是唯一一次，有必要写下来。
 
-![](images/8a1f354d1a2a2118b1a7861649eb6c05.webp)
+![](https://huhexian.s3.bitiful.net/pic/2024/06/8a1f354d1a2a2118b1a7861649eb6c05.webp)
 
 前段时间和在南昌的几个初中同学一起吃饭，后面一起去 KTV 唱歌，拍照、录视频，记录下短暂的相聚时刻，情不自禁地感慨到今年是我们认识的第10年，初中毕业的第7年，仿佛初中那三年就在昨天，但转眼间大学都毕业了。
 
@@ -33,11 +32,13 @@ tags:
 
 去年在 @[FindBlog](https://t.me/FindBlog/231) 频道做过推荐。官网说这是一款最具创新性、闪电般快速的 WordPress 主题，快速且轻量，正如它的名字一样，基于古腾堡编辑器，可以自由扩展定制。
 
-![Another](images/d18f7770325e6e939d889365e371e3af.webp) ![Jack](images/b553b5a5d446c4426c6e61112b87552e.webp)
+![Another](https://huhexian.s3.bitiful.net/pic/2024/06/d18f7770325e6e939d889365e371e3af.webp)
 
-让我对这个主题感到惊讶的是使用它的站点。在 [Another Dayu](https://anotherdayu.com/) 和 [Jack\\'s Space](https://veryjack.com/) 两个博客中，使用的都是 Blocksy，但展现的效果截然不同。今天又看到 [H.-H.\\'s Blog](https://blog.hhpeng.org/) 也使用了同样的主题，第一眼没有看出来，三种风格相差甚远，很难想象都是 WordPress 和 Blocksy，同样也能看出三人不同的审美风格。
+![Jack](https://huhexian.s3.bitiful.net/pic/2024/06/b553b5a5d446c4426c6e61112b87552e.webp)
 
-![](images/659a1493ba878101637bb92a0deaf09c.webp)
+让我对这个主题感到惊讶的是使用它的站点。在 [Another Dayu](https://anotherdayu.com/) 和 [Jack\\\\\'s Space](https://veryjack.com/) 两个博客中，使用的都是 Blocksy，但展现的效果截然不同。今天又看到 [H.-H.\\\\\'s Blog](https://blog.hhpeng.org/) 也使用了同样的主题，第一眼没有看出来，三种风格相差甚远，很难想象都是 WordPress 和 Blocksy，同样也能看出三人不同的审美风格。
+
+![](https://huhexian.s3.bitiful.net/pic/2024/06/659a1493ba878101637bb92a0deaf09c.webp)
 
 应该是还没有更新内容，但是在[关于](https://blog.hhpeng.org/about)页面可以了解到他的一些信息。
 
@@ -51,7 +52,7 @@ Blocksy 有免费版和付费版，浏览一下上面这三个博客，免费版
 
 不仅是广告，还有众多打着免费的旗号，但吸引完用户之后开始收费，甚至变得更加糟糕的产品。产品需要盈利，采用收费无可厚非，但如果一种产品的商业模式需要它们在吸引了人们之后最终变得糟糕，那我宁愿这种产品一开始就不存在。
 
-> On the other hand, I love the internet. It\\\\'s a place where people come to share ideas and digitally congregate. I see it as a bunch of campfires sprinkled throughout the darkness of cyberspace.
+> On the other hand, I love the internet. It\\\\\'s a place where people come to share ideas and digitally congregate. I see it as a bunch of campfires sprinkled throughout the darkness of cyberspace.
 
 互联网变得糟糕，还有许多例子，但正如 Herman 所说，我们也热爱着互联网，这是一个人们分享想法和数字化聚集的地方，而人们分享的思想与观点，他将其比喻为散步在网络空间黑暗中的一堆堆营火。
 

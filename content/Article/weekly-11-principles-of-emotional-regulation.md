@@ -6,14 +6,13 @@ categories:
 tags: 
   - "周报"
 ---
-
 周末两天，双休两天，睡觉两天，外卖两天，躺尸两天。这就是我近两天的状态，原本约好和同学吃饭，却因其他事情被鸽。南昌下了近一周的雨，想出门走走，去附近的湿地公园或美术馆逛逛，依然下雨、下雨、下雨，影响计划，也影响情绪。
 
-![](images/7ace1cd7fad260807fef87736dfaf82e.webp)
+![](https://huhexian.s3.bitiful.net/pic/2024/06/7ace1cd7fad260807fef87736dfaf82e.webp)
 
 ## 情绪调节的原则
 
-在 Nesslabs 读到一篇文章，_[Principles of emotional regulation](https://nesslabs.com/emotional-regulation)_，情绪调节的原则。主要介绍了心理学家 James Gross 开发的情绪调节模型——emotion-generative process，以及在该模型下调节情绪的策略。
+在 Nesslabs 读到一篇文章，*[Principles of emotional regulation](https://nesslabs.com/emotional-regulation)*，情绪调节的原则。主要介绍了心理学家 James Gross 开发的情绪调节模型——emotion-generative process，以及在该模型下调节情绪的策略。
 
 俗话说知己知彼百战不殆，想要明白如何调节情绪，则有必要了解情绪是如何产生的。在 James 的模型中，情绪的产生分为以下几个环节：
 

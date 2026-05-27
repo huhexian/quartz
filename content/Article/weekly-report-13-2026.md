@@ -6,9 +6,9 @@ categories:
 tags:
   - 周报
 ---
+![](https://img.yinji.org/LEvJuDEk8g-69An9.webp)
 
 好巧不巧，距离上一期周报，正好相差一年零一周，照这个更新频率，改名年报或年刊一点也不为过，除非自己脸皮够厚。
-
 ## 2026 年的目标与习惯
 
 我们通常习惯将农历新年作为一年的开始，即使从公历上看，2026 年已经过去 2 个月，但仍然可以将现在作为一年的开始，在此刻开始制定计划，规划自己的 2026 年。
@@ -25,7 +25,7 @@ tags:
 
 - 刷 Telegram 频道的时候看到椒盐豆豉的博客文章——[我不再做的事](https://blog.douchi.space/things-im-not-doing-anymore/?utm_source=t.me/mtfront#gsc.tab=0)，她的文章源于 [rexarski](https://rexarski.com/posts/2025/08/things-im-not-doing-anymore/?utm_source=blog.douchi.space)的同名文章，而 rexarski 的文章又源于 cbvivi 的博文[我不再做的事](https://cbvivi.today/250729)，而 cbvivi 的文章源于 X 上的内容——Greg Isenberg 分享的一个自己持续更新的文档，主题是[我不再做的事](https://x.com/gregisenberg/status/1949626889435234360)，我觉得这种传递和分享挺有意思的，尤其是链接与链接之间有交流和联系。
 - [If Your Cat Sleeps With You, They’re Trying to Tell You This!](https://www.youtube.com/@Felunee)小猫为什么愿意陪你睡觉，反映的是小猫对你无条件的信任，愿意在你身边放下戒备，安心睡觉。我家的小猫也是这样，我不在家的时候他自己睡在被子上，我在家就睡在腿上，等我洗漱完毕躺在床上，他要么睡在我旁边，要么睡在床尾。
-- [@Escapist\_1]([https://x.com/Escapist_1]\(https://x.com/Escapist_1/status/2027614767985398103\))：人终究会老，会死，会像半明半暗的云一样散掉，很多真诚的努力最后都会变成干呕。所以在我最好的黄金年代，我要把眼泪留给幸福的瞬间，真诚留给和我一起在草地打滚的人。同时我也祈祷，永远不要因为他人的贫乏而怀疑自己的丰盈。
+- [@Escapist_1]([https://x.com/Escapist_1](https://x.com/Escapist_1/status/2027614767985398103))：人终究会老，会死，会像半明半暗的云一样散掉，很多真诚的努力最后都会变成干呕。所以在我最好的黄金年代，我要把眼泪留给幸福的瞬间，真诚留给和我一起在草地打滚的人。同时我也祈祷，永远不要因为他人的贫乏而怀疑自己的丰盈。
 - 1Password 最近高达 30% 涨幅的[涨价](https://www.v2ex.com/t/1193850)让很多人选择其他密码管理方式，我从 2024 年 8 月开始使用自部署 [Vaultwarden](https://yinji.org/bitwarden.html)，搭配使用 Bitwarden 官方的客户端和浏览器扩展，在不同系统的电脑、手机上都可以直接使用，非常方便和稳定，也解决了过去我多个平台使用同一个密码的隐患。
 - 昨天本来想下完班去看电影，结果因为下大雨，骑电动车不方便看导航，走错了路，离电影院越来越远，结果是不仅电影没看上，还摸瞎骑了十多公里，最后兜兜转转回到宿舍楼下。晚上在电脑上看完了柯汶利导演的三杀之《匿杀》，刚看开头十多分钟，我就忍不住去豆瓣打了 1 星，张钧甯的演技让我尴尬，彭昱畅的演技风格在这部电影里十分违和，剧情设定是好的，但太俗套。
 - 使用 [Tw93](https://x.com/HiTw93) 开发的 macOS 清理工具 [Mole](https://github.com/tw93/Mole)，第一次清理就释放了 7.82GB 空间，一款开源的 macOS 终端清理/维护工具，用几个简单命令代替 CleanMyMac、AppCleaner、DaisyDisk、iStat Menus 等一堆图形化工具的一部分功能。

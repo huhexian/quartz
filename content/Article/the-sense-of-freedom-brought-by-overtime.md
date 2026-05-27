@@ -8,8 +8,7 @@ tags:
   - "工作"
   - "自由"
 ---
-
-![](images/385d1a5f2487a1490f59c9c0429b2db7.webp)
+![](https://huhexian.s3.bitiful.net/pic/2024/08/385d1a5f2487a1490f59c9c0429b2db7.webp)
 
 今天周日，上午又去公司加班了。
 

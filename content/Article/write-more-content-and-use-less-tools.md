@@ -8,8 +8,7 @@ tags:
   - "wordpress"
   - "博客"
 ---
-
-![](images/16d752129c8b722284240182a6c8ccaa.webp)
+![](https://huhexian.s3.bitiful.net/2023/11/22/16d752129c8b722284240182a6c8ccaa.webp)
 
 标题这句话是说给自己听的，并不是用来劝诫别人。
 

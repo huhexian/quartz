@@ -7,6 +7,7 @@ tags:
   - "游戏"
   - "鹅鸭杀"
 ---
+![](https://img.yinji.org/kdOb4-ssD7VYB3g3.webp)
 
 大概是 2021 年的寒假，在笔记本电脑上下载了 Steam，安装好《[鹅鸭杀](https://store.steampowered.com/app/1568590/Goose_Goose_Duck/?l=schinese&curator_clanid=40912347)》，叫上一群初中、高中同学，在一艘虚构的飞船上，扮演着邪恶的鸭子和正义的大鹅，偶尔变成大胃口鹈鹕，一口一个，全部装进肚子里，也会变成贴贴鸽子，总想溜到你身边，投放病毒感染大家。
 

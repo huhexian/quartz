@@ -7,8 +7,7 @@ tags:
   - "便利店"
   - "有家便利店"
 ---
-
-![](images/74ca35cde9677196965c7108af624d6d.webp)
+![](https://huhexian.s3.bitiful.net/2025/01/74ca35cde9677196965c7108af624d6d.webp)
 
 陈仓颉写了一篇文章《[便利店](https://imzm.im/711-store/)》，我在底下评论，公司地下车库也有一家便利店，但为什么要开在地下车库，我也不知道。
 

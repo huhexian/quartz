@@ -10,11 +10,19 @@ tags:
 ---
 我是一个强迫症患者，程度算不上低，很早之前就想将自己的博客和其他 self-hosted 服务分开，博客单独一台 VPS，其他杂七杂八的自部署服务放在另一台 VPS 上，既要雨露均沾，也要有个孰轻孰重，以此体现我对于博客的重视，毕竟自诩博客爱好者。
 
+![](https://huhexian.s3.bitiful.net/pic/2024/08/5fc03acde3880f0cede8eb33abd9d285.webp)
+
 好巧不巧，[CloudCone](https://yinji.org/cloudcone.html) 最近不知抽什么风，上架两款 VPS，其中一款为4核心、2GB内存、30GB SSD 存储，4TB 流量，价格为[19.9美元](https://app.cloudcone.com.cn/vps/268/create?token=hashtag-2024-ssd-vps-2&ref=9587)，从没摸透过他们的营销手法。从刚开始接触时的复活节，到后面的黑色星期五（被鸽了）、圣诞节、周年庆等活动，优惠力度一次比一次小，这次也算是赶上了，账户里也有点余额，便剁手了一台，买之前想着，多部署一点有意思的工具或服务，让它充分利用起来。
 
-2026年2月26日更新：不推荐使用 CloudCone，可使用平替款 [RackNerd](https://yinji.org/racknerd.html)。
-
 我对于 VPS 的测试一窍不通，只会学着网友的教程，输入一段代码，运行一个脚本，等待测试结果。VPS 开通之后我用一个融合怪脚本进行测试，下面是它给出的数据结果。
+
+![](https://huhexian.s3.bitiful.net/pic/2024/08/a4d78c936f762f50267f0e23e7c4373d.webp)
+
+![](https://huhexian.s3.bitiful.net/pic/2024/08/4c2077e2933595c26b623667331f1078.webp)
+
+![](https://huhexian.s3.bitiful.net/pic/2024/08/4c1b6f4e21ecb12243c96e64c9311f59.webp)
+
+![](https://huhexian.s3.bitiful.net/pic/2024/08/a773555289b9ec2e1f96ae4e3140787e.webp)
 
 机房在美国洛杉矶，大多数人用它做一些特殊服务，所以就会关注流媒体解锁情况，我目的不在此，部署网站之后的访问情况令我比较满意，包括现在这个博客，一直运行在 CloudCone 的 VPS 上，也较为稳定。
 
@@ -24,9 +32,7 @@ tags:
 
 多说一句，aptX 的博客审美十分在线，语言文字、页面排版十分优雅。
 
-安装：
-
-```bash
+```
 docker run -d --name bitwardenrs \ 
 --restart unless-stopped \ 
 -e WEBSOCKET_ENABLED=true \ 
@@ -36,9 +42,7 @@ docker run -d --name bitwardenrs \
 vaultwarden/server:latest
 ```
 
-关闭用户注册：
-
-```bash
+```
 docker run -d --name bitwardenrs \ 
 --restart unless-stopped \ 
 -e SIGNUPS_ALLOWED=false \ 
@@ -57,10 +61,8 @@ vaultwarden/server:latest
 
 使用 Bitwarden，千万记住一点，你的主密码。当然，最主要的，不要做一个[虚假的自托管爱好者](https://blog.gujiakai.top/2024/04/fake-selfhost-lover)。
 
-* * *
-
+---
 目前正在使用的自部署服务：
-
 - [Umami](https://umami.is/)
 - [Uptime Kuma](https://uptime.kuma.pet/)
 - [Bitwarden](https://bitwarden.com/)

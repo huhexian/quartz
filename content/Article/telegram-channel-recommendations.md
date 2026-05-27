@@ -6,7 +6,6 @@ categories:
 tags: 
   - "telegram"
 ---
-
 Telegram 不单单是一个即时通讯工具，更是一个获取信息的渠道。尤其是关注一些频道，能够获取各种各样，不同方面的内容。
 
 1. 竹新社（[@tnews365](https://t.me/tnews365)）

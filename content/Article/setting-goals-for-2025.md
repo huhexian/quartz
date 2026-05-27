@@ -6,10 +6,9 @@ categories:
 tags: 
   - "2025"
 ---
-
 从来没有给新的一年制定什么目标，但是这次有点不同，我迫切地想要实现它，因为已经等待很久。
 
-![](images/f125addec1da7562d4f7a03a43cf34bf.webp)
+![](https://huhexian.s3.bitiful.net/2024/12/f125addec1da7562d4f7a03a43cf34bf.webp)
 
 ## 驾照考试
 

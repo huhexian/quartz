@@ -6,10 +6,9 @@ categories:
 tags: 
   - "摄影"
 ---
-
 我以为买了相机，揣着它在大街上，就会敢于举起并开始拍照。在没有相机之前，出于某种羞耻感，不敢或者是不敢光明正大地用兜里的手机拍下眼前的人或物，除非旁边没有别人。
 
-![](images/20250330212018380-scaled.jpg)
+![](https://yinji-1253682336.cos.ap-guangzhou.myqcloud.com/2025/03/20250330212018380-scaled.jpg)
 
 或许是受某些新闻的影响，潜意识里举起手机拍照和“偷拍“划上了等号，而相机才是光明正大之物，可以随时随地拿出咔嚓两下。
 
@@ -21,18 +20,18 @@ tags:
 
 今天是 3 月最后一个周末，购买相机已经一个月，每次一到休息日，总会想出门逛逛，觉得外面会有东西等着我去拍，今天也不例外，但是天气不好，阴天没有光线，带着相机在楼下溜达了一圈，被倒春寒的冷风赶回了家，手痒。前段时间连续一周的下雨，潮湿，购买收纳箱做了一个简易的防潮箱，但还是忍不住拿出来开机看一看，实在手痒，对着桌上的键盘拍了几张。
 
-![](images/fd2d84cf8a06927948feebd14c19ef88.webp)
+![](https://huhexian.s3.bitiful.net/2025/03/fd2d84cf8a06927948feebd14c19ef88.webp)
 
-![](images/a84f15cbe9cc26344f62d3006803d4db.webp)
+![](https://huhexian.s3.bitiful.net/2025/03/a84f15cbe9cc26344f62d3006803d4db.webp)
 
-![](images/3d3179a6c468bdd6409bef1d6709a590.webp)
+![](https://huhexian.s3.bitiful.net/2025/03/3d3179a6c468bdd6409bef1d6709a590.webp)
 
-![](images/35a2efbdb64fc4bb1713b174d269acae.webp)
+![](https://huhexian.s3.bitiful.net/2025/03/35a2efbdb64fc4bb1713b174d269acae.webp)
 
 或许热爱摄影的人都喜欢拍一张自己拿着相机的照片，第一次是拿着大学同学的 Canon EOS M50 Mark II，那是我第一次独立使用相机，虽然摄影的爱好并不是从那一刻才开始，但拥有一台相机的想法开始萌生。购买 Nikon Z5 之后一直没找到机会拍一张举相机的对镜自拍，晚上临时起意，在房间的全身镜前拍下了一张与小猫的合照，光线不好，希望能有机会拍一张更佳的对镜照。
 
-![](images/6faa77ffdfc92140aaf24b47ff10ec26.webp)
+![](https://huhexian.s3.bitiful.net/2025/03/6faa77ffdfc92140aaf24b47ff10ec26.webp)
 
-![](images/20250330211937313-scaled.jpeg)
+![](https://yinji-1253682336.cos.ap-guangzhou.myqcloud.com/2025/03/20250330211937313-scaled.jpeg)
 
 拍照不是见不得人的事情，是一种兴趣和热爱，可能费钱，但还是希望能够大胆地拍，大胆地记录，记录不确定的瞬间。
