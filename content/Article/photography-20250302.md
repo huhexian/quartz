@@ -6,7 +6,6 @@ categories:
 tags: 
   - "nikon-z5"
 ---
-
 上午在东湖区逛了半天，天气太热，太阳很烈，虽然是走走拍拍，但没有拍到比较满意的内容。
 
 在八一公园的一座桥上偶然看到湖面的几只塑料鸭子，湖面很干净，便赶紧拍了下来，旁边还有小孩子和她妈妈在数有几只。
@@ -17,10 +16,10 @@ tags:
 
 原图：
 
-![](images/decb948d58593f3c36dd0ae31bdf0156.webp)
+![](https://huhexian.s3.bitiful.net/2025/03/decb948d58593f3c36dd0ae31bdf0156.webp)
 
 后期：
 
-![](images/b9b337350d7bd3ddf6cb13b3f8f8272c.webp)
+![](https://huhexian.s3.bitiful.net/2025/03/b9b337350d7bd3ddf6cb13b3f8f8272c.webp)
 
 等有空我也学习一下[竹炉山房](https://synyan.cn/t)，在图片上显示 Exif 信息。

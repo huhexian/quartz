@@ -6,18 +6,15 @@ categories:
 tags: 
   - "app"
 ---
-
 ## Introduction
 
 在2023年年尾，我分享了这一年里常用的软件和服务——[My App Defaults 2023](https://yinji.org/5179.html)，现在已经过去一年，其中有哪些变化，停用了哪些服务和软件，新尝试了哪些，在此做一个梳理。
-
-![](images/314cdb2a28ec346f162e43b18fce7211.webp)
 
 ## My App Defaults 2024
 
 📨 Mail Client：电脑端使用 Gmail 和QQ邮箱网页，在移动端，iPhone 使用系统自带邮件应用
 
-📮 Mail Server: Gmail、QQmail、Foxmail.
+📮 Mail Server: Gmail、QQmail、Foxmail. 
 
 📝 Notes: [Obsidian](https://obsidian.md/)今年因为参加工作，笔记反而记的少
 
@@ -83,7 +80,8 @@ tags:
 
 🤖 AI API: [UniAPI](https://api.uniapi.ai/register?aff=HyYk)
 
-## Change
+
+##  Change
 
 今年最大的变化是开始喜欢用系统自带应用，从 Apple Notes，到 Apple Music，再到 Apple Maps，得益于 Apple 系统应用到轻便、干净和简洁，它们也让我思考我们使用一款软件，最需要的是什么，是核心的、主要的功能。
 
