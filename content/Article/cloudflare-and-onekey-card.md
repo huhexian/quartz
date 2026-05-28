@@ -9,8 +9,7 @@ tags:
   - "onekey-card"
   - "webp-cloud"
 ---
-
-![](images/202409012242640.webp)
+![](https://webp.yinji.org/202409012242640.webp)
 
 原本标题可以类似于“开通 Cloudflare R2，创建免费图床”、“域名转入 Cloudflare，香”、“OneKey Card 虚拟信用卡注册激活教程”等等，但我只取了其中两个关键词，诸如此类的教程随便 Google 一下就是一大堆，我没有必要照抄别人的内容，替换自己的图，然后标题一改或者索性不改，那叫什么，那tmd叫[洗稿](https://t.me/FindBlog/501)。
 
@@ -18,7 +17,7 @@ tags:
 
 不止一次听过 [Cloudflare](https://www.cloudflare.com/zh-cn/) 赛博佛祖的外号，也一直想把域名转入到 Cloudflare，使用它的一些免费服务，但信用卡对我来说是一个门槛，没有办理，不知道该办理哪种信用卡，目前也不太想过早使用信用卡，所以 Cloudflare 在我这里还没有派上太大用场。
 
-![](images/202409012231465.webp)
+![](https://webp.yinji.org/202409012231465.webp)
 
 前段时间参与 [Dogs](https://t.me/dogshouse_bot/join?startapp=m64px3aLRdSfQiipYchkCQ) 的空投（它的狗头画得真丑），昨天发现已经到账 Telegram 的 Wallet，46刀，正想着如何把它用掉，便想到很早之前注册过的 [OneKey Card](https://card.onekey.so/?i=VFDH2E)，因为当时需要充值 USDC 或 USDT 才能激活，兴趣不大，就搁置了，轻松几步，就将 Telegram Wallet 里的 Dogs 转入到 OneKey Card，并开通了虚拟 Visa 卡。
 
@@ -32,7 +31,7 @@ tags:
 
 R2 Uploader 即是一个图片上传工具，替换 Cloudflare R2 后台简陋的上传页面，据 Leslie 的文章介绍，还有图像压缩、大文件上传等功能。
 
-![](images/202409012231824.webp)
+![](https://webp.yinji.org/202409012231824.webp)
 
 将 WebP Cloud 和 R2 Uploader 联动起来，实现一键上传和代理。我在 Piclist 上也进行了相关设置，主要是想使用**从剪切板上传**和**上传后自动复制 markdown 链接**这两个功能，隔空喊话一个球大佬，后续是否有计划给 R2 Uploader 加上这两个功能。
 
@@ -44,10 +43,10 @@ R2 Uploader 即是一个图片上传工具，替换 Cloudflare R2 后台简陋�
 
 看网上的消息，现在 [OneKey Card](https://card.onekey.so/?i=VFDH2E) 免月费，不用白不用，趁此机会绑定了支付宝，虽然不知道为什么无法在淘宝上使用这张卡，但在美团上实打实能支付，中午点了麦当劳外卖、买了团购优惠券，本想再充个话费，似乎不太行。
 
-![](images/202409012227703.webp)
+![](https://webp.yinji.org/202409012227703.webp)
 
 头一回知道虚拟货币还能这样使用，也算是开了眼界。用它作为 Cloudflare 的主要支付方式，也非常方便，只不过以后需要支付，还得往里面充值虚拟货币。
 
 [OneKey Card](https://card.onekey.so/?i=VFDH2E) 现在还能注册，Google 账号一键登录即可，建议尝试一下。
 
-![](images/202409012234583.webp)
+![](https://webp.yinji.org/202409012234583.webp)

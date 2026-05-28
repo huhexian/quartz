@@ -6,10 +6,9 @@ categories:
 tags: 
   - "生日"
 ---
-
 工作太忙，以至于自己的22岁生日也只是和女朋友匆匆吃了个晚饭，并一起草草记录博客的第6年。
 
-![](images/9ae118750e20f6026d727fa4f14a7555.webp)
+![](https://huhexian.s3.bitiful.net/pic/2024/03/9ae118750e20f6026d727fa4f14a7555.webp)
 
 继续借用[小孙同学](https://blog.sunguoqi.com)的照片。
 

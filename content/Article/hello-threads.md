@@ -8,12 +8,9 @@ tags:
   - "threads"
   - "twitter"
 ---
-
 ## 写在前面
 
 上个月听到消息说扎克伯格在筹备上线一款新的社交应用——Threads，宣称其“具有良好的运营”，称其为当前“一片混乱中的”推特的绝佳替代品。
-
-Threads 官网：[](https://www.threads.net)[https://www.threads.net](https://www.threads.net)
 
 原本计划在7月中旬推出，但由于前段时间马斯克限制 Twitter 浏览量，推动 Threads 在今天上线。昨晚在 App Store 上预约下载，今早醒来就已经帮我安装好了。
 
@@ -23,17 +20,17 @@ Threads 官网：[](https://www.threads.net)[https://www.threads.net](https://ww
 
 我应该还算比较靠前，第 415768 位加入 Threads 的用户。
 
-![923shots\_so.webp](images/64a65f9006b46.webp)
+![923shots_so.webp](https://huhexian.s3.bitiful.net/2023/07/06/64a65f9006b46.webp)
 
 早上在 Twitter 上便看到一群人兴冲冲地分享自己的 Threads 账户地址和铭牌，纷纷前往 Threads 发表第一条消息，大部分是“Hello world”。
 
-上一次这么大规模涌入另一个社交平台，似乎是 Clubhouse 诞生的时候，我当时也挺馋，但当初只推出了 iOS 客户端，Android 迟迟到来，就没有加入。Clubhouse 火了一段时间，现在却像消失了一样，不知 Threads 是否能够持续下去。
+上一次这么大规模涌入另一个社交平台，似乎是 clubhouse 诞生的时候，我当时也挺馋，但当初只推出了 iOS 客户端，Android 迟迟到来，就没有加入。clubhouse 火了一段时间，现在却像消失了一样，不知 Threads 是否能够持续下去。
 
 ## 使用体验
 
 就我目前的使用体验来看，我认为它有望和 Twitter 分庭抗礼。
 
-> 由于还没有一个官方的中文翻译，我暂且将 Threads 译为“线报”，在 Threads 上发表内容就称之为发线报吧。
+>由于还没有一个明确的中文翻译，我暂且将 Threads 译为“线报”，在 Threads 上发表内容就成为发线报吧。
 
 最突出的是它像 Twitter，但又有自己的特色（或者说 bug）。主页是不断推荐的信息流，发表线报有点赞、评论、转发或引用，使用逻辑上和 Twitter 基本没有差异，让人不太习惯的是 Threads 的点赞按钮在左侧，而 Twitter 左侧图标是评论，很容易点错。
 
@@ -49,12 +46,10 @@ Threads 官网：[](https://www.threads.net)[https://www.threads.net](https://ww
 
 另外我也发现一个小小的 feature，下图左侧有一条线，末端有一个结，不愧是 Threads。
 
-![297shots\_so.webp](images/64a6603228e8e.webp)
+![297shots_so.webp](https://huhexian.s3.bitiful.net/2023/07/06/64a6603228e8e.webp?w=900&h=900)
 
 ## 关注我吧
 
-我在 Threads 上的 ID 是 [huhexian](https://www.threads.net/@huhexian)，直接搜索或者点击链接即可。在 [App Store](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) 和 [Google Play](https://play.google.com/store/apps/details?id=com.instagram.barcelona) 上均可下载客户端。
+我在 Threads 上的 ID 是 *[huhexian](https://www.threads.net/@huhexian)*，直接搜索或者点击链接即可。在 [App Store](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) 和 [Google Play](https://play.google.com/store/apps/details?id=com.instagram.barcelona) 上均可下载客户端。
 
-![1shots\_so.webp](images/64a667b80b26d.webp)
-
-一个冷知识：Threads 目前还没被墙，但是必须使用 Instagram 登录，Instagram 被墙，所以还是...
+![1shots_so.webp](https://huhexian.s3.bitiful.net/2023/07/06/64a667b80b26d.webp)

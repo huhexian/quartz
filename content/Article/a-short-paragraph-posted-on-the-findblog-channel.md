@@ -4,9 +4,6 @@ date: 2024-08-28
 categories: 
   - "life"
 ---
-
-![](images/7ca9b9a99fe31dafb8ca77590e3eed22.webp)
-
 我从2018年开始写博客，记录自己的生活和想法，渐渐地认识了许多写博客的朋友。
 
 三年前创建 @[FindBlog](https://t.me/findblog) 纯属兴趣和热爱，因为这份喜爱，我觉得 Telegram 是一个很不错的平台，有许多优秀的博客和文章值得让更多人看到，于是就有了 @[FindBlog](https://t.me/findblog) 。

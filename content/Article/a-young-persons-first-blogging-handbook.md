@@ -1,16 +1,15 @@
 ---
-title: "年轻人的第一份博客手册"
+title: 年轻人的第一份博客手册
 date: 2023-10-07
-categories: 
-  - "play-everything"
-tags: 
-  - "专栏"
-  - "博客"
+categories:
+  - play-everything
+tags:
+  - 专栏
+  - 博客
+draft: true
 ---
 
 我在小报童平台创建了一份专栏——**年轻人的第一份博客手册**。
-
-![](images/20231007222515177.png)
 
 ## 前言
 
@@ -31,5 +30,3 @@ tags:
 ## 订阅方式
 
 微信扫码下图即可。
-
-![](images/a03d1ce45946ec5a1e5cc9121aaa14c2.webp)

@@ -6,8 +6,7 @@ categories:
 tags: 
   - "less-is-more"
 ---
-
-![](images/497311b41af468234329a4e601dc5f6d.webp)
+![](https://huhexian.s3.bitiful.net/2024/11/497311b41af468234329a4e601dc5f6d.webp)
 
 在很多地方都看到过这句出自 [Ludwig Mies van der Rohe](https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E5%AF%86%E6%96%AF%C2%B7%E5%87%A1%E5%BE%B7%E7%BE%85) 的名言：**Less is more**，少即是多，不仅建筑领域有所应用，许多独立开发者也将其作为产品的要义之一，今天正好和朋友聊到这个话题，引申到自己的博客，也是同样的道理。
 
@@ -25,7 +24,7 @@ Less is more，少即是多，尽量增加信息密度，信息量虽然看起�
 
 前段时间更换博客主题以及关闭评论的时候说过，我要给博客做减法，回顾过去的博客主题、排版、设计，概括来说是比较杂乱无章，借用某位博友的观点，写博客是为了立人设，那我就需要直截了当的让人看见我的人设，页面上铺天盖地的各种信息，甚至还有狗皮膏药似的广告，你的人设是什么，邋遢大王吗？
 
-所以当时选择了仿 [BearBlog](https://bearblog.dev) 的 [Dear](https://yayu.net/projects/wordpress-dear) 主题，再次感谢雅余的精心制作。在首页简单几句话，甚至几个词概括我是谁，我要做什么，我写什么，**让密度变大，让阅读者舒适地欣赏你的内容，而不是轰炸他**，在此感谢哲学家[韩宇](https://hanyu.me)，**他做程序员可惜了，我建议转行做产品经理**。
+所以当时选择了仿 [BearBlog](https://bearblog.dev) 的 [Dear](https://yayu.net/projects/wordpress-dear) 主题，再次感谢雅余的精心制作。在首页简单几句话，甚至几个词概括我是谁，我要做什么，我写什么，**让密度变小，让阅读者舒适地欣赏你的内容，而不是轰炸他**，在此感谢哲学家[韩宇](https://hanyu.me)，**他做程序员可惜了，我建议转行做产品经理**。
 
 前几天因为 Apple Music 到期，转而投向了 Spotify 的怀抱，两个都是好产品，音乐软件主打音乐播放，相比网易云音乐，前者更让我有使用的欲望，为什么？因为它们不会在你打开软件时弹出弹窗广告和推荐内容，不会在播放时推荐你使用各种音效、动效，甚至是付费的功能。
 
@@ -39,7 +38,7 @@ Less is more，少即是多，尽量增加信息密度，信息量虽然看起�
 
 再借用某博友的观点，如果写博客是为了让别人看见，那就更应该对自己的博客做减法，而不是做加法，尽量做到 Less is more。做加法很简单，各种时髦的功能往上加，哪个主题热门用哪个，哪个插件有趣装哪个，我以前就是如此，但越到最后越是难受，想要做减法异常困难，舍不得这个，舍不得那个，但你要想，你写博客是为了让别人看见，那你希望别人看你的博客像是看电线杆小广告还是看蓝天白云？
 
-正如 Steph Ango 最新文章 _[What can we remove?](https://stephango.com/remove)_ 所说——Systems want to grow and grow, but without pruning, they collapse. Slowly, then spectacularly. 系统想要不断增长，但如果不进行精简，它们会缓慢地、惊人地崩塌。
+正如 Steph Ango 最新文章 *[What can we remove?](https://stephango.com/remove)* 所说——Systems want to grow and grow, but without pruning, they collapse. Slowly, then spectacularly. 系统想要不断增长，但如果不进行精简，它们会缓慢地、惊人地崩塌。
 
 真正的 Less is more 不是删繁就简，而是在纷繁中建立秩序，上面我说到的几个博客，还能继续精简吗？当然可以，图片去掉，链接去掉，就留下文章标题，但是很难体现秩序感，那不叫简洁，叫简陋，别人更不会看了。
 
